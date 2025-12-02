@@ -1,4 +1,4 @@
-## 🔒 Project: Secure Go Web App with CSRF protection
+## Secure Go Web App with CSRF protection
 
 ### 1. Introduction
 
